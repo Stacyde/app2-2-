@@ -9,7 +9,7 @@ public class Main {
             System.out.println("Бонус равен = " + bonus);
             System.out.println("Итоговая сумма на счету клиента = " + sum);
         } else {
-            float bonus = 0;
+            int bonus = 0;
             float sum = rub + bonus + balance;
             System.out.println("Бонус равен = " + bonus);
             System.out.println("Итоговая сумма на счету клиента = " + sum);
